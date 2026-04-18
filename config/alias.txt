@@ -40,8 +40,8 @@ CCTV-8K,CCTV8K,CCTV8K 超高清,CCTV-8K超高清[3840*2160],cctv8k_120m,cctv8k_3
 老故事,CCTV老故事,CCTV-老故事,CCTV老故亿,中央新影-老故事,中央新影-老故亿,重温经典
 女性时尚,CCTV女性时尿,CCTV-女性时尿,CCTV女性时尚,CCTV-女性时尚,CCTV女性时尚HD
 世界地理,CCTV世界地理,CCTV-世界地理,CCTV世界地理HD
-文化精品,CCTV文化精品,CCTV-文化精品,CCTV央视文化精品,CCTV-央视文化精品,CCTV央视文化精品HD
-百姓健康,CCTV卫生健康,CCTV-卫生健康,CCTV卫生与健康
+央视文化精品,CCTV文化精品,CCTV-文化精品,CCTV央视文化精品,CCTV-央视文化精品,CCTV央视文化精品HD
+卫生健康,CCTV卫生健康,CCTV-卫生健康,CCTV卫生与健康
 中学生,CCTV中学甿,CCTV中学生,CCTV-中学生,中央新影-中学甿,中央新影-中学生
 
 CETV-1,CETV1,CETV1中国教育,CETV1 中国教育,中国教育1,中国教育1HD
