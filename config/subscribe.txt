@@ -2,3 +2,5 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://gh.927223.xyz/https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/main/IPTV.txt
+http://rihou.cc:555/gggg.nzk
+https://gh.927223.xyz/https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/holive.m3u 
