@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-18 20:52:40,http://hy.tzk.cc.cd/?id=17091681
+2026-04-19 19:17:18,http://hy.tzk.cc.cd/?id=17091681
 
 🎵音乐频道,#genre#
 音乐小石榴,http://hy.tzk.cc.cd/?id=17091681
@@ -279,7 +279,7 @@ CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 CCTV-4,http://fn.gcl.de5.net:5908/gsh950428/631780421
 CCTV-4,http://lihetl.com:9527/rtp/232.0.0.148:9142
 CCTV-4,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.201:1234
-CCTV-4,http://k.061899.xyz/k.php?id=cctv4m
+CCTV-4,http://k.061899.xyz/k.php?id=cctv4o
 CCTV-4美洲,http://fn.gcl.de5.net:5908/gsh950428/608807416
 CCTV-4美洲,http://lihetl.com:9527/rtp/232.0.0.145:9110
 CCTV-4美洲,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.59:1234
