@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-21 20:09:28,http://hy.tzk.cc.cd/?id=17091681
+2026-04-22 19:33:40,http://hy.tzk.cc.cd/?id=17091681
 
 🎵音乐频道,#genre#
 音乐小石榴,http://hy.tzk.cc.cd/?id=17091681
@@ -155,10 +155,10 @@ S H E《4EVER世界巡回演唱会 完整版》珍藏版,https://vd3.bdstatic.co
 辽宁葫岛生活服务,http://lihetl.com:9527/rtp/232.0.0.239:9262
 辽宁葫岛新闻综合,http://lihetl.com:9527/rtp/232.0.0.238:9260
 辽宁沈阳新闻,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8
+辽宁沈阳新闻,http://39.134.52.215/PLTV/88888888/224/3221226924/index.m3u8
 辽宁沈阳新闻,http://lihetl.com:9527/rtp/232.0.0.227:9276
 辽宁沈阳新闻,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.206:1234
 辽宁沈阳新闻,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.142:1234
-辽宁沈阳新闻,http://39.134.52.215/PLTV/88888888/224/3221226924/index.m3u8
 抚顺综合,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.253:1234
 抚顺教育,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.254:1234
 盘锦都市,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.183:1234
@@ -511,7 +511,7 @@ CGTN英语新闻,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.188:1234
 第一剧场,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.29:1234
 第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-第一剧场,http://czkeji.vip:9000/rtp/239.252.219.89:5140
+第一剧场,http://czkeji.vip:9000/rtp/239.252.219.86:5140
 怀旧剧场,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874302_dlna.m3u8
 怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
@@ -588,8 +588,6 @@ CGTN英语新闻,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.188:1234
 北京卫视4K,http://wan1.tangwudi.cc:47859/udp/239.94.0.111:5140
 北京卫视4K,http://wan1.tangwudi.cc:47859/udp/239.94.0.112:5140
 北京卫视4K,http://lihetl.com:9527/rtp/232.0.0.113:8602
-北京卫视4K,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226823/index.m3u8
-北京卫视4K,http://39.134.52.215/PLTV/88888888/224/3221226574/index.m3u8
 山东卫视4K,http://wan1.tangwudi.cc:47859/udp/239.94.0.120:5140
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/tzk426/iptv-apiz/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2026-04-21 20:09:28
+#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2026-04-22 19:33:40
 http://hy.tzk.cc.cd/?id=17091681
 #EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🎵音乐频道",音乐小石榴
 http://hy.tzk.cc.cd/?id=17091681
@@ -304,13 +304,13 @@ http://lihetl.com:9527/rtp/232.0.0.238:9260
 #EXTINF:-1 tvg-name="辽宁沈阳新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁沈阳新闻.png" group-title="📡辽宁频道",辽宁沈阳新闻
 http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8
 #EXTINF:-1 tvg-name="辽宁沈阳新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁沈阳新闻.png" group-title="📡辽宁频道",辽宁沈阳新闻
+http://39.134.52.215/PLTV/88888888/224/3221226924/index.m3u8
+#EXTINF:-1 tvg-name="辽宁沈阳新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁沈阳新闻.png" group-title="📡辽宁频道",辽宁沈阳新闻
 http://lihetl.com:9527/rtp/232.0.0.227:9276
 #EXTINF:-1 tvg-name="辽宁沈阳新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁沈阳新闻.png" group-title="📡辽宁频道",辽宁沈阳新闻
 http://fb4wd00001.f3322.net:1111/rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-name="辽宁沈阳新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁沈阳新闻.png" group-title="📡辽宁频道",辽宁沈阳新闻
 http://fb4wd00001.f3322.net:1111/rtp/232.0.0.142:1234
-#EXTINF:-1 tvg-name="辽宁沈阳新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁沈阳新闻.png" group-title="📡辽宁频道",辽宁沈阳新闻
-http://39.134.52.215/PLTV/88888888/224/3221226924/index.m3u8
 #EXTINF:-1 tvg-name="抚顺综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/抚顺综合.png" group-title="📡辽宁频道",抚顺综合
 http://fb4wd00001.f3322.net:1111/rtp/232.0.0.253:1234
 #EXTINF:-1 tvg-name="抚顺教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/抚顺教育.png" group-title="📡辽宁频道",抚顺教育
@@ -1008,7 +1008,7 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="☘️央视付费频道",第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="☘️央视付费频道",第一剧场
-http://czkeji.vip:9000/rtp/239.252.219.89:5140
+http://czkeji.vip:9000/rtp/239.252.219.86:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="☘️央视付费频道",怀旧剧场
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874302_dlna.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="☘️央视付费频道",怀旧剧场
@@ -1157,10 +1157,6 @@ http://wan1.tangwudi.cc:47859/udp/239.94.0.111:5140
 http://wan1.tangwudi.cc:47859/udp/239.94.0.112:5140
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="☘️卫视频道",北京卫视4K
 http://lihetl.com:9527/rtp/232.0.0.113:8602
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="☘️卫视频道",北京卫视4K
-http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226823/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="☘️卫视频道",北京卫视4K
-http://39.134.52.215/PLTV/88888888/224/3221226574/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视4K.png" group-title="☘️卫视频道",山东卫视4K
 http://wan1.tangwudi.cc:47859/udp/239.94.0.120:5140
 #EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视4K.png" group-title="☘️卫视频道",湖南卫视4K
