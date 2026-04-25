@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/tzk426/iptv-apiz/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2026-04-22 19:33:40
+#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2026-04-25 19:13:18
 http://hy.tzk.cc.cd/?id=17091681
 #EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🎵音乐频道",音乐小石榴
 http://hy.tzk.cc.cd/?id=17091681
