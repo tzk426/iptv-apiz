@@ -968,9 +968,6 @@ CCTV-15,http://115.52.127.45:880/CH015.m3u8
 
 环球电视,https://stream1.freetv.fun/1e86a557d2d00ae53094f006c0167ca6e17e6f14817302f75057618fb631c774.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-凤凰中文,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
-凤凰资讯,http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
-凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
 中天新闻,https://pixman.passwdwork.cc.cd/proxy/e02b3975691e34b3.m3u8
 中天新闻,http://46.38.157.60:53874/proxy/e02b3975691e34b3.m3u8
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
