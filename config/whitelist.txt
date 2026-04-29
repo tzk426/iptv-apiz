@@ -3,6 +3,35 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
+凤凰中文,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
+凤凰资讯,http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
+凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
+NewTV黑莓电影,http://129.211.14.102:25000/newtv.php?id=hmdy&token=www.9kds.com
+NewTV黑莓动画,http://129.211.14.102:25000/newtv.php?id=hmdh&token=www.9kds.com
+NewTV古装剧场,http://129.211.14.102:25000/newtv.php?id=gzjc&token=www.9kds.com
+NewTV动作电影,http://129.211.14.102:25000/newtv.php?id=dzdy&token=www.9kds.com
+NewTV军旅剧场,http://129.211.14.102:25000/newtv.php?id=jljc&token=www.9kds.com
+NewTV家庭剧场,http://129.211.14.102:25000/newtv.php?id=jtjc&token=www.9kds.com
+NewTV惊悚悬疑,http://129.211.14.102:25000/newtv.php?id=jsxy&token=www.9kds.com
+NewTV热播精选,http://129.211.14.102:25000/newtv.php?id=rbjx&token=www.9kds.com
+NewTV精品综合,http://129.211.14.102:25000/newtv.php?id=jpzh&token=www.9kds.com
+NewTV爱情喜剧,http://129.211.14.102:25000/newtv.php?id=aqxj&token=www.9kds.com
+NewTV精品大剧,http://129.211.14.102:25000/newtv.php?id=jpds&token=www.9kds.com
+NewTV中国功夫,http://129.211.14.102:25000/newtv.php?id=zggf&token=www.9kds.com
+NewTV潮妈辣婆,http://129.211.14.102:25000/newtv.php?id=cmnp&token=www.9kds.com
+NewTV炫舞未来,http://129.211.14.102:25000/newtv.php?id=xwwl&token=www.9kds.com
+NewTV哒啵赛事,http://129.211.14.102:25000/newtv.php?id=dbsa&token=www.9kds.com
+NewTV精品体育,http://129.211.14.102:25000/newtv.php?id=jpty&token=www.9kds.com
+NewTV金牌综艺,http://129.211.14.102:25000/newtv.php?id=jpzy&token=www.9kds.com
+NewTV军事评论,http://129.211.14.102:25000/newtv.php?id=jspl&token=www.9kds.com
+NewTV农业致富,http://129.211.14.102:25000/newtv.php?id=nyzf&token=www.9kds.com
+NewTV精品纪录,http://129.211.14.102:25000/newtv.php?id=jpjl&token=www.9kds.com
+NewTV怡伴健康,http://129.211.14.102:25000/newtv.php?id=ybjk&token=www.9kds.com
+NewTV精品萌宠,http://129.211.14.102:25000/newtv.php?id=jpmc&token=www.9kds.com
+NewTV健康生活,http://129.211.14.102:25000/newtv.php?id=jksh&token=www.9kds.com
+NewTV精品体育,http://129.211.14.102:25000/newtv.php?id=jpty2&token=www.9kds.com
+天元围棋,http://129.211.14.102:25000/newtv.php?id=tywg&token=www.9kds.com
+
 
 东方卫视4K,http://go.bkpcp.top/mg/dfws
 江苏卫视4K,http://go.bkpcp.top/mg/jsws
