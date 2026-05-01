@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/tzk426/iptv-apiz/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2026-04-28 20:14:44
+#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2026-05-01 19:28:31
 http://hy.tzk.cc.cd/?id=17091681
 #EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🎵音乐频道",音乐小石榴
 http://hy.tzk.cc.cd/?id=17091681
@@ -527,8 +527,6 @@ http://fn.gcl.de5.net:5908/gsh950428/631780421
 http://lihetl.com:9527/rtp/232.0.0.148:9142
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
 http://fb4wd00001.f3322.net:1111/rtp/232.0.0.201:1234
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
-http://k.061899.xyz/k.php?id=cctv4o
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4美洲.png" group-title="☘️央视频道",CCTV-4美洲
 http://fn.gcl.de5.net:5908/gsh950428/608807416
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4美洲.png" group-title="☘️央视频道",CCTV-4美洲
@@ -782,7 +780,7 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="☘️央视付费频道",第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="☘️央视付费频道",第一剧场
-http://czkeji.vip:9000/rtp/239.252.219.86:5140
+http://czkeji.vip:9000/rtp/239.252.219.89:5140
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="☘️央视付费频道",怀旧剧场
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874302_dlna.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="☘️央视付费频道",怀旧剧场
@@ -1344,9 +1342,15 @@ http://fb4wd00001.f3322.net:1111/rtp/232.0.0.18:1234
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="☘️卫视频道",新疆卫视
 http://k.061899.xyz/k.php?id=xjws
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="☘️港澳频道",凤凰中文
+http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="☘️港澳频道",凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️港澳频道",凤凰资讯
+http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️港澳频道",凤凰资讯
 http://r.jdshipin.com/0Rp07
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="☘️港澳频道",凤凰香港
+http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="☘️港澳频道",凤凰香港
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/镜新闻.png" group-title="☘️港澳频道",镜新闻
@@ -2027,6 +2031,54 @@ http://wan1.tangwudi.cc:47859/udp/239.94.1.134:5140
 http://wan1.tangwudi.cc:47859/udp/239.94.1.144:5140
 #EXTINF:-1 tvg-name="iHOT爱院线" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT爱院线.png" group-title="🎬影视频道",iHOT爱院线
 http://wan1.tangwudi.cc:47859/udp/239.94.1.132:5140
+#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV精品萌宠.png" group-title="🎬影视频道",NewTV精品萌宠
+http://129.211.14.102:25000/newtv.php?id=jpmc&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV黑莓电影.png" group-title="🎬影视频道",NewTV黑莓电影
+http://129.211.14.102:25000/newtv.php?id=hmdy&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV黑莓动画.png" group-title="🎬影视频道",NewTV黑莓动画
+http://129.211.14.102:25000/newtv.php?id=hmdh&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV哒啵赛事.png" group-title="🎬影视频道",NewTV哒啵赛事
+http://129.211.14.102:25000/newtv.php?id=dbsa&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV中国功夫.png" group-title="🎬影视频道",NewTV中国功夫
+http://129.211.14.102:25000/newtv.php?id=zggf&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV军旅剧场.png" group-title="🎬影视频道",NewTV军旅剧场
+http://129.211.14.102:25000/newtv.php?id=jljc&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV军事评论.png" group-title="🎬影视频道",NewTV军事评论
+http://129.211.14.102:25000/newtv.php?id=jspl&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV热播精选" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV热播精选.png" group-title="🎬影视频道",NewTV热播精选
+http://129.211.14.102:25000/newtv.php?id=rbjx&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV精品综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV精品综合.png" group-title="🎬影视频道",NewTV精品综合
+http://129.211.14.102:25000/newtv.php?id=jpzh&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV农业致富.png" group-title="🎬影视频道",NewTV农业致富
+http://129.211.14.102:25000/newtv.php?id=nyzf&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV动作电影.png" group-title="🎬影视频道",NewTV动作电影
+http://129.211.14.102:25000/newtv.php?id=dzdy&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV古装剧场.png" group-title="🎬影视频道",NewTV古装剧场
+http://129.211.14.102:25000/newtv.php?id=gzjc&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV家庭剧场.png" group-title="🎬影视频道",NewTV家庭剧场
+http://129.211.14.102:25000/newtv.php?id=jtjc&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV怡伴健康.png" group-title="🎬影视频道",NewTV怡伴健康
+http://129.211.14.102:25000/newtv.php?id=ybjk&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV惊悚悬疑.png" group-title="🎬影视频道",NewTV惊悚悬疑
+http://129.211.14.102:25000/newtv.php?id=jsxy&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV潮妈辣婆.png" group-title="🎬影视频道",NewTV潮妈辣婆
+http://129.211.14.102:25000/newtv.php?id=cmnp&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV炫舞未来.png" group-title="🎬影视频道",NewTV炫舞未来
+http://129.211.14.102:25000/newtv.php?id=xwwl&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV爱情喜剧.png" group-title="🎬影视频道",NewTV爱情喜剧
+http://129.211.14.102:25000/newtv.php?id=aqxj&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV精品体育.png" group-title="🎬影视频道",NewTV精品体育
+http://129.211.14.102:25000/newtv.php?id=jpty&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV精品体育.png" group-title="🎬影视频道",NewTV精品体育
+http://129.211.14.102:25000/newtv.php?id=jpty2&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV精品大剧.png" group-title="🎬影视频道",NewTV精品大剧
+http://129.211.14.102:25000/newtv.php?id=jpds&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV精品纪录.png" group-title="🎬影视频道",NewTV精品纪录
+http://129.211.14.102:25000/newtv.php?id=jpjl&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV金牌综艺.png" group-title="🎬影视频道",NewTV金牌综艺
+http://129.211.14.102:25000/newtv.php?id=jpzy&token=www.9kds.com
+#EXTINF:-1 tvg-name="NewTV健康生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV健康生活.png" group-title="🎬影视频道",NewTV健康生活
+http://129.211.14.102:25000/newtv.php?id=jksh&token=www.9kds.com
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="🎬影视频道",风云剧场
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025637102_dlna.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="🎬影视频道",风云剧场
@@ -2105,6 +2157,8 @@ http://fn.gcl.de5.net:5908/gsh950428/956909356
 http://fn.gcl.de5.net:5908/gsh950428/626064707
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="🏀体育频道",北京体育休闲
 http://r.xace.fun:4999/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="🏀体育频道",天元围棋
+http://129.211.14.102:25000/newtv.php?id=tywg&token=www.9kds.com
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="🏀体育频道",天元围棋

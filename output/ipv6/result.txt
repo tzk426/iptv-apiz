@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-28 20:14:44,http://hy.tzk.cc.cd/?id=17091681
+2026-05-01 19:28:31,http://hy.tzk.cc.cd/?id=17091681
 
 🎵音乐频道,#genre#
 音乐小石榴,http://hy.tzk.cc.cd/?id=17091681
@@ -269,7 +269,6 @@ CCTV-3,http://k.061899.xyz/m.php?id=cctv3
 CCTV-4,http://fn.gcl.de5.net:5908/gsh950428/631780421
 CCTV-4,http://lihetl.com:9527/rtp/232.0.0.148:9142
 CCTV-4,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.201:1234
-CCTV-4,http://k.061899.xyz/k.php?id=cctv4o
 CCTV-4美洲,http://fn.gcl.de5.net:5908/gsh950428/608807416
 CCTV-4美洲,http://lihetl.com:9527/rtp/232.0.0.145:9110
 CCTV-4美洲,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.59:1234
@@ -398,7 +397,7 @@ CGTN英语新闻,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.188:1234
 第一剧场,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.29:1234
 第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-第一剧场,http://czkeji.vip:9000/rtp/239.252.219.86:5140
+第一剧场,http://czkeji.vip:9000/rtp/239.252.219.89:5140
 怀旧剧场,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874302_dlna.m3u8
 怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
@@ -683,8 +682,11 @@ CGTN英语新闻,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.188:1234
 新疆卫视,http://k.061899.xyz/k.php?id=xjws
 
 ☘️港澳频道,#genre#
+凤凰中文,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
 凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
 凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
 凤凰香港,http://r.jdshipin.com/yDoTN
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
@@ -1027,6 +1029,30 @@ iHOT爱科幻,http://wan1.tangwudi.cc:47859/udp/239.94.1.131:5140
 iHOT爱谍战,http://wan1.tangwudi.cc:47859/udp/239.94.1.134:5140
 iHOT爱赛车,http://wan1.tangwudi.cc:47859/udp/239.94.1.144:5140
 iHOT爱院线,http://wan1.tangwudi.cc:47859/udp/239.94.1.132:5140
+NewTV精品萌宠,http://129.211.14.102:25000/newtv.php?id=jpmc&token=www.9kds.com
+NewTV黑莓电影,http://129.211.14.102:25000/newtv.php?id=hmdy&token=www.9kds.com
+NewTV黑莓动画,http://129.211.14.102:25000/newtv.php?id=hmdh&token=www.9kds.com
+NewTV哒啵赛事,http://129.211.14.102:25000/newtv.php?id=dbsa&token=www.9kds.com
+NewTV中国功夫,http://129.211.14.102:25000/newtv.php?id=zggf&token=www.9kds.com
+NewTV军旅剧场,http://129.211.14.102:25000/newtv.php?id=jljc&token=www.9kds.com
+NewTV军事评论,http://129.211.14.102:25000/newtv.php?id=jspl&token=www.9kds.com
+NewTV热播精选,http://129.211.14.102:25000/newtv.php?id=rbjx&token=www.9kds.com
+NewTV精品综合,http://129.211.14.102:25000/newtv.php?id=jpzh&token=www.9kds.com
+NewTV农业致富,http://129.211.14.102:25000/newtv.php?id=nyzf&token=www.9kds.com
+NewTV动作电影,http://129.211.14.102:25000/newtv.php?id=dzdy&token=www.9kds.com
+NewTV古装剧场,http://129.211.14.102:25000/newtv.php?id=gzjc&token=www.9kds.com
+NewTV家庭剧场,http://129.211.14.102:25000/newtv.php?id=jtjc&token=www.9kds.com
+NewTV怡伴健康,http://129.211.14.102:25000/newtv.php?id=ybjk&token=www.9kds.com
+NewTV惊悚悬疑,http://129.211.14.102:25000/newtv.php?id=jsxy&token=www.9kds.com
+NewTV潮妈辣婆,http://129.211.14.102:25000/newtv.php?id=cmnp&token=www.9kds.com
+NewTV炫舞未来,http://129.211.14.102:25000/newtv.php?id=xwwl&token=www.9kds.com
+NewTV爱情喜剧,http://129.211.14.102:25000/newtv.php?id=aqxj&token=www.9kds.com
+NewTV精品体育,http://129.211.14.102:25000/newtv.php?id=jpty&token=www.9kds.com
+NewTV精品体育,http://129.211.14.102:25000/newtv.php?id=jpty2&token=www.9kds.com
+NewTV精品大剧,http://129.211.14.102:25000/newtv.php?id=jpds&token=www.9kds.com
+NewTV精品纪录,http://129.211.14.102:25000/newtv.php?id=jpjl&token=www.9kds.com
+NewTV金牌综艺,http://129.211.14.102:25000/newtv.php?id=jpzy&token=www.9kds.com
+NewTV健康生活,http://129.211.14.102:25000/newtv.php?id=jksh&token=www.9kds.com
 风云剧场,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025637102_dlna.m3u8
 风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
@@ -1068,6 +1094,7 @@ iHOT爱院线,http://wan1.tangwudi.cc:47859/udp/239.94.1.132:5140
 陕西体育休闲,http://fn.gcl.de5.net:5908/gsh950428/956909356
 江苏体育休闲,http://fn.gcl.de5.net:5908/gsh950428/626064707
 北京体育休闲,http://r.xace.fun:4999/rtp/239.3.1.243:8000
+天元围棋,http://129.211.14.102:25000/newtv.php?id=tywg&token=www.9kds.com
 天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://wan1.tangwudi.cc:47859/udp/239.94.1.152:5140
