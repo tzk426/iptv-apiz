@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-01 19:28:31,http://hy.tzk.cc.cd/?id=17091681
+2026-05-04 20:08:52,http://hy.tzk.cc.cd/?id=17091681
 
 🎵音乐频道,#genre#
 音乐小石榴,http://hy.tzk.cc.cd/?id=17091681
@@ -397,7 +397,7 @@ CGTN英语新闻,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.188:1234
 第一剧场,http://fb4wd00001.f3322.net:1111/rtp/232.0.0.29:1234
 第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-第一剧场,http://czkeji.vip:9000/rtp/239.252.219.89:5140
+第一剧场,http://czkeji.vip:9000/rtp/239.252.219.86:5140
 怀旧剧场,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874302_dlna.m3u8
 怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
